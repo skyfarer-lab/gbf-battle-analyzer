@@ -12,7 +12,7 @@ This extension captures and analyzes battle data in real-time within your browse
 
 ## 🚀 Installation
 
-**Beta Access:** [Chrome Web Store](https://chrome.google.com/webstore/detail/temp_extension_id) (Coming Soon)
+**Beta Access:** [Chrome Web Store](https://chromewebstore.google.com/detail/gbf-battle-analyzer/fbbnbplpljbbdompckjckhdmmkmodnhc) 
 
 ## ✨ Features
 

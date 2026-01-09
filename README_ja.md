@@ -12,7 +12,7 @@
 
 ## 🚀 インストール
 
-**ベータ版:** [Chrome Web Store](https://chrome.google.com/webstore/detail/temp_extension_id) (準備中)
+**ベータ版:** [Chrome Web Store](https://chromewebstore.google.com/detail/gbf-battle-analyzer/fbbnbplpljbbdompckjckhdmmkmodnhc) 
 
 ## ✨ 機能
 
